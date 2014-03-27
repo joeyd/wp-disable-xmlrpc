@@ -1,7 +1,7 @@
 <?php /**
  * Plugin Name: WP Disable XMLRPC
- * Plugin URI: https://github.com/joeyd/WP-Conversions
- * Description: Fix for the DDOS attack on the WP file xmlrpc.php.
+ * Plugin URI: https://github.com/joeyd/wp-disable-xmlrpc
+ * Description: Disable pingbacks from being used as a DDOS attack.
  * Version: 1.0
  * Author: Joey Durham
  * Author URI: http://www.ultraweaver.com/
