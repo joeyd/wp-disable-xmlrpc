@@ -1,6 +1,6 @@
 <?php
 
-class nolojd_auto_update
+class nolo_disable_xmlrpc_auto_update
 {
     /**
      * The plugin current version
